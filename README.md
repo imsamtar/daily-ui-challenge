@@ -2,7 +2,7 @@
 
 #DailyUI Challenges
 
-[x] 001
+- [x] 001
 [] 002
 [] 003
 [] 004
